@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<RDF:RDF xmlns:NC="http://home.netscape.com/NC-rdf#"
+         xmlns:RDF="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul#main-window"
+                   width="994"
+                   height="676"
+                   sizemode="normal"
+                   screenX="13"
+                   screenY="28" />
+  <RDF:Description RDF:about="chrome://sqlitemanager/content/sqlitemanager.xul#sqlitemanager-window"
+                   screenX="125"
+                   screenY="101"
+                   width="773"
+                   height="566"
+                   sizemode="normal" />
+  <RDF:Description RDF:about="chrome://sqlitemanager/content/sqlitemanager.xul#tab-browse"
+                   selected="true" />
+  <RDF:Description RDF:about="chrome://sqlitemanager/content/sqlitemanager.xul#udfTabFunc"
+                   selected="true" />
+  <RDF:Description RDF:about="chrome://sqlitemanager/content/RowOperations.xul#dialog-table-operations"
+                   sizemode="normal"
+                   width="488" />
+  <RDF:Description RDF:about="chrome://sqlitemanager/content/sqlitemanager.xul#eximTabCsv"
+                   selected="true" />
+  <RDF:Description RDF:about="chrome://sqlitemanager/content/RowOperations.xul">
+    <NC:persist RDF:resource="chrome://sqlitemanager/content/RowOperations.xul#dialog-table-operations"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://sqlitemanager/content/sqlitemanager.xul#browse-type"
+                   value="TABLE" />
+  <RDF:Description RDF:about="chrome://sqlitemanager/content/sqlitemanager.xul">
+    <NC:persist RDF:resource="chrome://sqlitemanager/content/sqlitemanager.xul#udfTabFunc"/>
+    <NC:persist RDF:resource="chrome://sqlitemanager/content/sqlitemanager.xul#eximTabCsv"/>
+    <NC:persist RDF:resource="chrome://sqlitemanager/content/sqlitemanager.xul#tab-structure"/>
+    <NC:persist RDF:resource="chrome://sqlitemanager/content/sqlitemanager.xul#sqlitemanager-window"/>
+    <NC:persist RDF:resource="chrome://sqlitemanager/content/sqlitemanager.xul#tab-browse"/>
+    <NC:persist RDF:resource="chrome://sqlitemanager/content/sqlitemanager.xul#browse-type"/>
+  </RDF:Description>
+  <RDF:Description RDF:about="chrome://browser/content/browser.xul">
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#main-window"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#sidebar-box"/>
+    <NC:persist RDF:resource="chrome://browser/content/browser.xul#sidebar-title"/>
+  </RDF:Description>
+</RDF:RDF>

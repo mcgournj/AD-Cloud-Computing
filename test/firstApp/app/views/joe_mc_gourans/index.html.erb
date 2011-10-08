@@ -1,0 +1,23 @@
+<h1>Listing joe_mc_gourans</h1>
+
+<table>
+  <tr>
+    <th>Email</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @joe_mc_gourans.each do |joe_mc_gouran| %>
+  <tr>
+    <td><%= joe_mc_gouran.email %></td>
+    <td><%= link_to 'Show', joe_mc_gouran %></td>
+    <td><%= link_to 'Edit', edit_joe_mc_gouran_path(joe_mc_gouran) %></td>
+    <td><%= link_to 'Destroy', joe_mc_gouran, :confirm => 'Are you sure?', :method => :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Joe mc gouran', new_joe_mc_gouran_path %>

@@ -1,0 +1,5 @@
+2011-10-03 00:11:48,874 - softwarecenter.fixme - WARNING - logs to the root logger: '('/usr/share/software-center/softwarecenter/db/database.py', 154, 'open')'
+2011-10-03 00:11:48,874 - root - WARNING - failed to add sca db Couldn't stat '/home/lvl9/.cache/software-center/software-center-agent.db' (No such file or directory)
+2011-10-03 00:11:51,272 - softwarecenter.fixme - WARNING - logs to the root logger: '('/usr/lib/pymodules/python2.7/zeitgeist/client.py', 367, 'reconnect_monitors')'
+2011-10-03 00:11:51,272 - zeitgeist.client - INFO - Reconnected to Zeitgeist engine...
+2011-10-03 00:11:54,417 - softwarecenter.app - INFO - software-center-agent finished with status 0

@@ -1,0 +1,43 @@
+[2011-10-04 15:48:14,725] - DEBUG - zeitgeist.fts - Indexing 'application://yelp.desktop'
+[2011-10-04 15:48:14,850] - DEBUG - zeitgeist.engine - Inserted 1 events out of 1 in 0.126989s
+[2011-10-04 15:48:15,227] - DEBUG - zeitgeist.fts - Committing FTS index
+[2011-10-04 15:51:48,886] - DEBUG - zeitgeist.fts - Indexing 'application://gnome-terminal.desktop'
+[2011-10-04 15:51:48,902] - DEBUG - zeitgeist.engine - Inserted 1 events out of 1 in 0.017053s
+[2011-10-04 15:51:49,392] - DEBUG - zeitgeist.fts - Committing FTS index
+[2011-10-04 19:16:22,449] - DEBUG - zeitgeist.fts - Indexing 'file:///home/lvl9/rails_projects/first_app/Gemfile'
+[2011-10-04 19:16:22,451] - DEBUG - zeitgeist.fts - Indexing 'file:///home/lvl9/rails_projects/first_app/Gemfile'
+[2011-10-04 19:16:22,454] - DEBUG - zeitgeist.fts - Indexing 'file:///home/lvl9/rails_projects/first_app/Gemfile'
+[2011-10-04 19:16:22,481] - DEBUG - zeitgeist.engine - Inserted 3 events out of 3 in 0.061988s
+[2011-10-04 19:16:22,955] - DEBUG - zeitgeist.fts - Committing FTS index
+[2011-10-04 19:18:17,911] - DEBUG - zeitgeist.fts - Indexing 'file:///home/lvl9/rails_projects/mh_appone/Gemfile'
+[2011-10-04 19:18:17,918] - DEBUG - zeitgeist.fts - Indexing 'file:///home/lvl9/rails_projects/mh_appone/Gemfile'
+[2011-10-04 19:18:17,920] - DEBUG - zeitgeist.fts - Indexing 'file:///home/lvl9/rails_projects/mh_appone/Gemfile'
+[2011-10-04 19:18:17,958] - DEBUG - zeitgeist.engine - Inserted 3 events out of 3 in 0.050878s
+[2011-10-04 19:18:18,425] - DEBUG - zeitgeist.fts - Committing FTS index
+[2011-10-04 19:18:48,182] - DEBUG - zeitgeist.fts - Indexing 'file:///home/lvl9/rails_projects/mh_appone/Gemfile'
+[2011-10-04 19:18:48,218] - DEBUG - zeitgeist.engine - Inserted 1 events out of 1 in 0.050981s
+[2011-10-04 19:18:48,683] - DEBUG - zeitgeist.fts - Committing FTS index
+[2011-10-04 19:43:10,962] - DEBUG - zeitgeist.fts - Indexing 'application://gnome-terminal.desktop'
+[2011-10-04 19:43:10,982] - DEBUG - zeitgeist.engine - Inserted 1 events out of 1 in 0.021045s
+[2011-10-04 19:43:11,465] - DEBUG - zeitgeist.fts - Committing FTS index
+[2011-10-04 19:46:52,046] - DEBUG - zeitgeist.fts - Indexing 'application://gnome-terminal.desktop'
+[2011-10-04 19:46:52,084] - DEBUG - zeitgeist.engine - Inserted 1 events out of 1 in 0.038702s
+[2011-10-04 19:46:52,548] - DEBUG - zeitgeist.fts - Committing FTS index
+[2011-10-04 19:51:28,145] - DEBUG - zeitgeist.fts - Indexing 'application://gedit.desktop'
+[2011-10-04 19:51:28,177] - DEBUG - zeitgeist.engine - Inserted 1 events out of 1 in 0.032568s
+[2011-10-04 19:51:28,649] - DEBUG - zeitgeist.fts - Committing FTS index
+[2011-10-04 19:59:31,239] - DEBUG - zeitgeist.fts - Indexing 'application://gnome-terminal.desktop'
+[2011-10-04 19:59:31,274] - DEBUG - zeitgeist.engine - Inserted 1 events out of 1 in 0.036313s
+[2011-10-04 19:59:31,741] - DEBUG - zeitgeist.fts - Committing FTS index
+[2011-10-04 20:10:29,302] - DEBUG - zeitgeist.fts - Indexing 'application://gnome-terminal.desktop'
+[2011-10-04 20:10:29,358] - DEBUG - zeitgeist.engine - Inserted 1 events out of 1 in 0.057899s
+[2011-10-04 20:10:29,804] - DEBUG - zeitgeist.fts - Committing FTS index
+[2011-10-04 20:16:26,931] - DEBUG - zeitgeist.fts - Indexing 'application://gnome-terminal.desktop'
+[2011-10-04 20:16:26,946] - DEBUG - zeitgeist.engine - Inserted 1 events out of 1 in 0.016746s
+[2011-10-04 20:16:27,434] - DEBUG - zeitgeist.fts - Committing FTS index
+[2011-10-04 20:24:51,706] - DEBUG - zeitgeist.fts - Indexing 'application://gnome-terminal.desktop'
+[2011-10-04 20:24:51,767] - DEBUG - zeitgeist.engine - Inserted 1 events out of 1 in 0.062292s
+[2011-10-04 20:24:52,208] - DEBUG - zeitgeist.fts - Committing FTS index
+[2011-10-04 21:17:49,453] - DEBUG - zeitgeist.fts - Indexing 'application://gnome-terminal.desktop'
+[2011-10-04 21:17:49,488] - DEBUG - zeitgeist.engine - Inserted 1 events out of 1 in 0.035585s
+[2011-10-04 21:17:49,955] - DEBUG - zeitgeist.fts - Committing FTS index

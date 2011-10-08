@@ -1,0 +1,52 @@
+/etc/gdm/Xsession: Beginning session setup...
+Setting IM through im-switch for locale=en_IE.
+Start IM through /etc/X11/xinit/xinput.d/all_ALL linked to /etc/X11/xinit/xinput.d/default.
+GNOME_KEYRING_CONTROL=/tmp/keyring-N32Oqf
+SSH_AUTH_SOCK=/tmp/keyring-N32Oqf/ssh
+GNOME_KEYRING_CONTROL=/tmp/keyring-N32Oqf
+SSH_AUTH_SOCK=/tmp/keyring-N32Oqf/ssh
+GNOME_KEYRING_CONTROL=/tmp/keyring-N32Oqf
+SSH_AUTH_SOCK=/tmp/keyring-N32Oqf/ssh
+** (process:1256): DEBUG: zeitgeist-datahub.vala:174: Inserting 9 events
+Initializing nautilus-gdu extension
+
+(nautilus:1249): GLib-GObject-CRITICAL **: g_object_unref: assertion `G_IS_OBJECT (object)' failed
+** (process:1256): DEBUG: zeitgeist-datahub.vala:174: Inserting 1 events
+** (process:1256): DEBUG: desktop-launch-listener.vala:118: ran with uri: file:///home/lvl9
+
+(nautilus:1249): GLib-GObject-CRITICAL **: g_value_get_object: assertion `G_VALUE_HOLDS_OBJECT (value)' failed
+
+(nautilus:1249): GLib-GObject-CRITICAL **: g_value_get_object: assertion `G_VALUE_HOLDS_OBJECT (value)' failed
+
+(nautilus:1249): GLib-GObject-CRITICAL **: g_value_get_object: assertion `G_VALUE_HOLDS_OBJECT (value)' failed
+
+(nautilus:1249): GLib-GObject-CRITICAL **: g_value_get_object: assertion `G_VALUE_HOLDS_OBJECT (value)' failed
+
+(nautilus:1249): GLib-GObject-CRITICAL **: g_value_get_object: assertion `G_VALUE_HOLDS_OBJECT (value)' failed
+
+(nautilus:1249): GLib-GObject-CRITICAL **: g_value_get_object: assertion `G_VALUE_HOLDS_OBJECT (value)' failed
+
+(nautilus:1249): GLib-GObject-CRITICAL **: g_value_get_object: assertion `G_VALUE_HOLDS_OBJECT (value)' failed
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
+
+(nautilus:1249): GLib-GObject-CRITICAL **: g_value_get_object: assertion `G_VALUE_HOLDS_OBJECT (value)' failed
+
+(nautilus:1249): GLib-GObject-CRITICAL **: g_value_get_object: assertion `G_VALUE_HOLDS_OBJECT (value)' failed
+** (process:1256): DEBUG: zeitgeist-datahub.vala:174: Inserting 3 events
+** (process:1256): DEBUG: zeitgeist-datahub.vala:174: Inserting 1 events
+failed to create drawable
+failed to create drawable
+** (process:1256): DEBUG: zeitgeist-datahub.vala:174: Inserting 3 events
+** (process:1256): DEBUG: zeitgeist-datahub.vala:174: Inserting 3 events
+** (process:1256): DEBUG: zeitgeist-datahub.vala:174: Inserting 3 events
+** (process:1256): DEBUG: zeitgeist-datahub.vala:174: Inserting 3 events
+** (process:1256): DEBUG: zeitgeist-datahub.vala:174: Inserting 1 events
+** (process:1256): DEBUG: zeitgeist-datahub.vala:174: Inserting 1 events
+** (process:1256): DEBUG: zeitgeist-datahub.vala:174: Inserting 1 events
+** (process:1256): DEBUG: zeitgeist-datahub.vala:174: Inserting 1 events
+** (process:1256): DEBUG: zeitgeist-datahub.vala:174: Inserting 1 events
+** (process:1256): DEBUG: zeitgeist-datahub.vala:174: Inserting 1 events
+** (process:1256): DEBUG: zeitgeist-datahub.vala:174: Inserting 1 events
+** (process:1256): DEBUG: zeitgeist-datahub.vala:174: Inserting 1 events

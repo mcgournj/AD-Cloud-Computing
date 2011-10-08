@@ -1,0 +1,21 @@
+<%= form_for(@joe_mc_gouran) do |f| %>
+  <% if @joe_mc_gouran.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@joe_mc_gouran.errors.count, "error") %> prohibited this joe_mc_gouran from being saved:</h2>
+
+      <ul>
+      <% @joe_mc_gouran.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :email %><br />
+    <%= f.text_field :email %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

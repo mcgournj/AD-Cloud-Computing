@@ -1,0 +1,27 @@
+Looking at Module: libapplication.so
+New style for time label
+new_application_item ("Set Up Chat...")
+Using user icon for 'Guest Session' from file: (null)
+notify visible signal recieved
+entry hint: Post message...
+indicator-sound: new_volume_slider_widget
+Request current apps
+Building new application entry: :1.34  with icon: nm-device-wired at position 0
+g_variant_get_string: assertion `value != NULL' failed
+Changing calendar property: calendar-marks
+Changing calendar property: calendar-marks
+Changing calendar property: calendar-marks
+Changing calendar property: calendar-marks
+Changing calendar property: calendar-marks
+Changing calendar property: calendar-marks
+Changing calendar property: calendar-marks
+Changing calendar property: calendar-marks
+Changing calendar property: calendar-marks
+Changing calendar property: calendar-marks
+Changing calendar property: calendar-marks
+Changing calendar property: calendar-marks
+Changing calendar property: calendar-marks
+Changing calendar property: calendar-marks
+Changing calendar property: calendar-marks
+Changing calendar property: calendar-marks
+g_variant_get_string: assertion `value != NULL' failed
